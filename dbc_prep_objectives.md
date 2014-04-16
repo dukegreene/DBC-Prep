@@ -19,20 +19,20 @@ For any technical support, please feel free to scope out and post in the <a href
 # Before Entering Phase 0
 ## I need to be able to:
 
-#### 0. Google Account
+#### 0. Google Account (DONE)
 
 We will be using Google Hangout for introductory sessions and pairing and Google+ for cohort communication.  Please create a [Gmail](http://www.gmail.com) account if you do not have one already and expect to use this for Dev Bootcamp communication.
 
-#### 1. Personal Preparation
+#### 1. Personal Preparation (DONE/ONGOING)
 
 You are about to embark on a new learning experience. You will be challenged in new ways that will excite and frustrate you (sometimes at the same time). It's important to prepare yourself for success by recognizing how you learn best and what you enjoy when you are in a learning environment. Recognizing what you need will help you be able to express what you need when learning and make your experience at Dev Bootcamp more fulfilling. You will be spending a significant amount of time working with others, so it's also vital to practice explaining your ideas to others. *Keep track of the your explanations and results below. You will be asked to submit your responses prior to entering Phase 0.*
 
 Learning Objectives:
 
-- [ ] Explain the difference between <a href="http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/" target="_blank">growth and fixed mindset</a>.
-- [ ] Identify my 
+- [X] Explain the difference between <a href="http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/" target="_blank">growth and fixed mindset</a>.
+- [X] Identify my 
 <a href="http://www.vark-learn.com/english/page.asp?p=questionnaire" target="_blank">VARK learning style</a>.
-- [ ] Explain my <a href="http://www.thelearningweb.net/personalthink.html" target="_blank">thinking style</a> and what I enjoy or find challenging when learning
+- [X] Explain my <a href="http://www.thelearningweb.net/personalthink.html" target="_blank">thinking style</a> and what I enjoy or find challenging when learning
 
 #### 2. Computer Set-Up
 
@@ -44,9 +44,9 @@ It is fundamentally important that you have a working development environment on
 
 Learning Objectives:
 
-- [ ] Install Ruby version 2.0 <br> *Check the version by running “ruby –v” from the command line. You may need to update.* 
-- [ ] Install DBC’s preferred text editor - Sublime Text.
-- [ ] Run a ruby program from Sublime in my terminal<br> *Use <a href="http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/" target="_blank">Perfect Workflow in Sublime Text</a>*
+- [X] Install Ruby version 2.0 <br> *Check the version by running “ruby –v” from the command line. You may need to update.* 
+- [X] Install DBC’s preferred text editor - Sublime Text.
+- [X] Run a ruby program from Sublime in my terminal<br> *Use <a href="http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/" target="_blank">Perfect Workflow in Sublime Text</a>*
 - [ ] Use IRB to play with Ruby code (*HINT*: Type IRB into your terminal)
 
 
@@ -60,15 +60,15 @@ Resource: <a href="http://cli.learncodethehardway.org/book/" target="_blank">The
 
 Learning Objectives:
 
-- [ ] Navigate between directories
-- [ ] Create a new directory
+- [X] Navigate between directories
+- [X] Create a new directory
 - [ ] Delete a directory
 - [ ] List files in a directory
 - [ ] Identify the directory I are in
 - [ ] Move a file between from one directory to another
 - [ ] Copy a file or directory
 - [ ] Open a file in a text editor
-- [ ] Run a ruby file
+- [X] Run a ruby file
 
 #### 4. Ruby
 Computers are not the most intelligent things, but they are obedient and willing to do things repeatedly without a fuss. The trick is knowing how to tell a computer to do what you want. Computers don't understand innuendo and they take everything literally. (Thankfully they don't hold grudges). It's vital to success in Phase 0 and Dev Bootcamp that you can solve simple challenges using Ruby. In order to be able to do this, you will need to be feel confident with the following objectives. 
@@ -79,17 +79,17 @@ Refresh using <a href = "http://www.codecademy.com/tracks/ruby" target="_blank">
 
 Learning Objectives:
 
-- [ ] Identify strings, integers, arrays, hashes, floats
-- [ ] Define a variable
-- [ ] Interact with a user via the command line (ex. `gets`)
-- [ ] Describe flow control using `if`, `elsif`, `else`, and `unless`
-- [ ] Convert a method using `if`/`else` to case using `when`
-- [ ] Compare `=` and `==`
-- [ ] Describe loops and explain how the following work (`#times`, `#each`, `#while`, `#until`)
-- [ ] Differentiate between arrays and hashes
+- [X] Identify strings, integers, arrays, hashes, floats
+- [X] Define a variable
+- [X] Interact with a user via the command line (ex. `gets`)
+- [X] Describe flow control using `if`, `elsif`, `else`, and `unless`
+- [X] Convert a method using `if`/`else` to case using `when`
+- [X] Compare `=` and `==`
+- [X] Describe loops and explain how the following work (`#times`, `#each`, `#while`, `#until`)
+- [X] Differentiate between arrays and hashes
 - [ ] Describe what methods, blocks, and classes, and objects are in Ruby
 - [ ] Use IRB to play with Ruby code (*HINT*: Type irb in your terminal and test your ability to do each of the aforementioned objectives)
-- [ ] Debug syntax errors from error messages
+- [X] Debug syntax errors from error messages
 
 
 
