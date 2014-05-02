@@ -47,7 +47,7 @@ Learning Objectives:
 - [X] Install Ruby version 2.0 <br> *Check the version by running “ruby –v” from the command line. You may need to update.* 
 - [X] Install DBC’s preferred text editor - Sublime Text.
 - [X] Run a ruby program from Sublime in my terminal<br> *Use <a href="http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/" target="_blank">Perfect Workflow in Sublime Text</a>*
-- [ ] Use IRB to play with Ruby code (*HINT*: Type IRB into your terminal)
+- [X] Use IRB to play with Ruby code (*HINT*: Type IRB into your terminal)
 
 
 #### 3. Command Line
@@ -88,7 +88,7 @@ Learning Objectives:
 - [X] Describe loops and explain how the following work (`#times`, `#each`, `#while`, `#until`)
 - [X] Differentiate between arrays and hashes
 - [ ] Describe what methods, blocks, and classes, and objects are in Ruby
-- [ ] Use IRB to play with Ruby code (*HINT*: Type irb in your terminal and test your ability to do each of the aforementioned objectives)
+- [X] Use IRB to play with Ruby code (*HINT*: Type irb in your terminal and test your ability to do each of the aforementioned objectives)
 - [X] Debug syntax errors from error messages
 
 
