@@ -34,7 +34,7 @@ Learning Objectives:
 <a href="http://www.vark-learn.com/english/page.asp?p=questionnaire" target="_blank">VARK learning style</a>.
 - [X] Explain my <a href="http://www.thelearningweb.net/personalthink.html" target="_blank">thinking style</a> and what I enjoy or find challenging when learning
 
-#### 2. Computer Set-Up
+#### 2. Computer Set-Up (DONE)
 
 It is fundamentally important that you have a working development environment on your computer so that you can easily and effectively run the programs you are writing. Great developers are able to setup, maintain, and upgrade their development environment to meet the demands of the project they are working on. This is equivalent to a carpenter keeping their workspace clean, organized, and stocked with the right tools. *Follow the directions in one of the following resources to get started.* 
 
@@ -50,7 +50,7 @@ Learning Objectives:
 - [X] Use IRB to play with Ruby code (*HINT*: Type IRB into your terminal)
 
 
-#### 3. Command Line
+#### 3. Command Line (DONE)
 
 Have you ever been afraid to go in to your terminal? Do you know what the terminal is? The terminal will be your best friend for most of Phase 0 and Phase 1, so it's important to get comfortable with some basic commands that will help you navigate through directories.  
 
@@ -62,15 +62,15 @@ Learning Objectives:
 
 - [X] Navigate between directories
 - [X] Create a new directory
-- [ ] Delete a directory
-- [ ] List files in a directory
-- [ ] Identify the directory I are in
-- [ ] Move a file between from one directory to another
-- [ ] Copy a file or directory
-- [ ] Open a file in a text editor
+- [X] Delete a directory
+- [X] List files in a directory
+- [X] Identify the directory I are in
+- [X] Move a file between from one directory to another
+- [X] Copy a file or directory
+- [X] Open a file in a text editor
 - [X] Run a ruby file
 
-#### 4. Ruby
+#### 4. Ruby (DONE)
 Computers are not the most intelligent things, but they are obedient and willing to do things repeatedly without a fuss. The trick is knowing how to tell a computer to do what you want. Computers don't understand innuendo and they take everything literally. (Thankfully they don't hold grudges). It's vital to success in Phase 0 and Dev Bootcamp that you can solve simple challenges using Ruby. In order to be able to do this, you will need to be feel confident with the following objectives. 
 
 Read <a href="http://it-ebooks.info/book/36/" target="_blank">*Learn to Program*</a> by Chris Pine, chapters 3-15.
@@ -87,7 +87,7 @@ Learning Objectives:
 - [X] Compare `=` and `==`
 - [X] Describe loops and explain how the following work (`#times`, `#each`, `#while`, `#until`)
 - [X] Differentiate between arrays and hashes
-- [ ] Describe what methods, blocks, and classes, and objects are in Ruby
+- [X] Describe what methods, blocks, and classes, and objects are in Ruby
 - [X] Use IRB to play with Ruby code (*HINT*: Type irb in your terminal and test your ability to do each of the aforementioned objectives)
 - [X] Debug syntax errors from error messages
 
